@@ -34,3 +34,14 @@ h2
     left: 0;
     background: #48a999;
 }
+
+button
+{
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+#lotr_img
+{
+    margin: auto;
+}
